@@ -1,0 +1,14 @@
+{
+  "name": "lt-solar-weather",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Marks Polakovs <@markspolakovs>, Volunteer Live Team <@VolunteerLiveTeam>",
+  "license": "MIT",
+  "dependencies": {
+    "airtable": "^0.5.0",
+    "moment": "^2.18.1",
+    "moment-timezone": "^0.5.13",
+    "snoowrap": "^1.14.2",
+    "superagent": "^3.5.2"
+  }
+}
