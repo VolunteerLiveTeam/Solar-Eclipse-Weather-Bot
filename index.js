@@ -60,6 +60,7 @@ function sidebar(r, data, lastPost) {
     );
     return thread.editSettings({
       title: thread.title,
+      description: thread.description,
       resources: newResources
     });
   });
